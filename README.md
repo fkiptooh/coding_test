@@ -11,4 +11,8 @@ Getting to write C has also been made easy by the extentions that have been deve
 
  **To run the code**
  1. Open any solution.
- 2. 
+ ![solution](https://github.com/fkiptooh/coding_test/blob/main/images/choose_code.png)
+ 2. How to run the code image.
+ ![Run_code](https://github.com/fkiptooh/coding_test/blob/main/images/how_to_run_code.png)
+ 3. Solution/ Results display on the terminal.
+ ![solution](https://github.com/fkiptooh/coding_test/blob/main/images/solution.png)
