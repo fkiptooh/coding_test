@@ -18,5 +18,5 @@ Some of the code extentions that have been useful in writting c programs in VSCo
  3. Solution/ Results display on the terminal.
  ![solution](https://github.com/fkiptooh/coding_test/blob/main/images/solution.png)
 
- **Advantages and Disadvantages of each solution**
+ ## Advantages and Disadvantages of each solution
  I have provided the advantages and disadvantages of each solution at the end of the solution using comment syntax.
