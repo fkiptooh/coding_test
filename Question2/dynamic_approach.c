@@ -36,12 +36,12 @@ int main()
 /*
  Advantages of Dynamic approach
 
- 1. Dynamic programming exploits the optimal substructure property of the problem, which allows for efficient computation and storage of result.
- 2. Dynamic programming can significantly improve the efficiency of computations by storing and reusing previously calculated results.
+ 1. Dynamic programming exploits memoization to speed up computation by caching results of repeated calculations.
+ 2. Dynamic programming exploits the optimal substructure property of the problem, which allows for efficient computation and storage of result.
 
 Disadvantage.
 
-1.  Dynamic programming may require additional memory to store intermediate results, which can be a concern for problems with large inputs.
+1.  Dynamic programming may require additional memory since memoization trades off memory for speed.
 2. Dynamic programming algorithms can be more challenging to implement correctly, as they involve breaking down problems into smaller overlapping subproblems and correctly storing and retrieving results.
 
 */
