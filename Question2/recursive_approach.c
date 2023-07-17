@@ -19,3 +19,15 @@ int main()
     printf("F(%d) = %d\n", n, result);
     return 0;
 }
+
+/*
+Advantages
+
+1. The recursive approach is often the simplest to understand and implement, as it directly follows the problem definition.
+2. Recursive code can often closely resemble the problem statement or mathematical definition, making it easier to read and understand.
+
+Disadvantage.
+
+1. Recursive algorithms may lead to stack overflow errors for very large inputs, as each recursive call adds a new stack frame.
+
+*/
